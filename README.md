@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto:FF00FF&height=100&section=footer&width=100"/>
-
-</p>
 <p align="center" style="font-size: 3000px;">
 <strong>~ ᕼI TᕼEᖇE! ᗯEᒪᑕOᗰE TO ᗰY GITᕼᑌᗷ! ~</strong>
 </p>
