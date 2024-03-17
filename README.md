@@ -1,11 +1,10 @@
-<p align="center" style="font-size: 3000px;">
-<strong>~ ᕼI TᕼEᖇE! ᗯEᒪᑕOᗰE TO ᗰY GITᕼᑌᗷ! ~</strong>
-</p>
 <p align="center">
-<img width = "300"
-src="https://i.pinimg.com/originals/96/bf/af/96bfaf550eae07ae520a1e549fa64fd8.gif">
-</p> 
-<h4 align="center"><samp>  I'm a 💻Computer Science student 🎓 passionate about learning new technologies and building software that makes a difference. I am also a 🎵 music and 🪐 space enthusiast and love to integrate 🚀 my interests into my projects.</samp></h4>
+  <img width = "1000"
+  src = "https://github.com/GayathriPCh/GayathriPCh/assets/132088009/51f0ba3b-785e-484e-b687-9fe1c94cb151">     
+</p>
+
+<h4 align="center" style="font-size: 80px;">  <samp> I'm a Computer Science student  passionate about learning new technologies and building software that makes a difference. I am also a  music and 🪐 space enthusiast and love to integrate  my interests into my projects.</samp>
+</h4>
 
 
 <h3 align="left">Connect with me:</h3>
