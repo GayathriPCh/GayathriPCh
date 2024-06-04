@@ -1,4 +1,3 @@
-<p align="left">Hello World!! Welcome to Gayathri's Github!</p>
 
 ###
 
