@@ -25,7 +25,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GayathriPCh/GayathriPCh/output/snake.svg" alt="Snake animation" />
 
 ###
 
