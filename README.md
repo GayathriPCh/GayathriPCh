@@ -1,6 +1,5 @@
-
+## Hey there!
 ###
-
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/1955727/screenshots/4438379/hello.gif"  />
 </div>
@@ -23,7 +22,6 @@
 </div>
 
 ###
-
 
 ###
 
@@ -106,8 +104,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/captain_marvel4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=captain_marvel4&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31sa6ornfjjibclkea5dmib7lwhq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sa6ornfjjibclkea5dmib7lwhq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
