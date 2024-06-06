@@ -1,4 +1,4 @@
-## Hey there!
+## Hey there!I'm a computer science student diving headfirst into the tech universe! 🌐 From whipping up dope web designs to geeking out over AI, ☁️ Cloud, 🔗 Blockchain, and 🛡️ cybersecurity, I'm all about pushing boundaries and shaping the future. Let's connect and chat about the raddest tech trends out there! 🚀
 ###
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/1955727/screenshots/4438379/hello.gif"  />
@@ -7,6 +7,7 @@
 ###
 
 <div align="center">
+<!--Drop a hey at-->
   <a href="https://www.linkedin.com/in/gayathri-pch/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
