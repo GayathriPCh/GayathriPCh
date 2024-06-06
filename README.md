@@ -2,12 +2,12 @@
 
 I'm a computer science student diving headfirst into the tech universe! 🌐 From whipping up dope web designs to geeking out over AI, ☁️ Cloud, 🔗 Blockchain, and 🛡️ cybersecurity, I'm all about pushing boundaries and shaping the future. Let's connect and chat about the raddest tech trends out there! 🚀
 
-## Drop a Hey at
 ###
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/1955727/screenshots/4438379/hello.gif"  />
 </div>
 
+## Drop a GM at
 ###
 
 <div align="center">
@@ -27,7 +27,7 @@ I'm a computer science student diving headfirst into the tech universe! 🌐 Fro
 </div>
 
 ###
-
+## Commits aren't a flex , or are they?
 ###
 
 <div align="center">
@@ -37,10 +37,10 @@ I'm a computer science student diving headfirst into the tech universe! 🌐 Fro
   <img src="https://github-profile-trophy.vercel.app?username=GayathriPCh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GayathriPCh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
+## Tech stacks because why not
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -106,6 +106,7 @@ I'm a computer science student diving headfirst into the tech universe! 🌐 Fro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+## Spotify , because every line of Code needs a soundtrack, even if it's just errors
 ###
 
 <div align="center">
