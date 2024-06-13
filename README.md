@@ -1,9 +1,5 @@
 <h2 align="center">Hola GitHub users! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Revolving Hearts" width="50" height="50" /></h2>
 
-<div align="center">
-  <img src="https://github.com/GayathriPCh/GayathriPCh/assets/132088009/d2162e1c-d5fd-49dd-8279-f442eda59a7e" width="450" height="450" alt="Profile Image">
-</div>
-
 <p align="center" style="font-family: 'Audiowide', cursive;">
   <strong>I'm a computer science student diving headfirst into the tech universe! 🌐 From whipping up dope web designs to geeking out over AI, ☁️ Cloud, 🔗 Blockchain, and 🛡️ cybersecurity, I'm all about pushing boundaries and shaping the future. Let's connect and chat about the raddest tech trends out there! 🚀</strong>
 </p>
