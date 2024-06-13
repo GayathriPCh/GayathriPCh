@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Snake Animation
+        id: snake-gif
         uses: Platane/snk@master
         with:
           github_user_name: GayathriPCh
