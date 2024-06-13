@@ -10,7 +10,7 @@
 </p>
 
 ###
-## Drop a GM at
+## Drop a GM at  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T163046Z&X-Amz-Expires=300&X-Amz-Signature=5dfba0a113c35873b2efc4be1a68db5e2e2812761246fc604893a80380a94ec6&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" /> 
 ---
 ###
 
@@ -22,11 +22,9 @@
 <a href="https://medium.com/@p.gayathri.ch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="30" alt="medium logo"  />
   </a>
 </div>
----
 
 ###
-## Commits aren't a flex , or are they?
----
+## Commits aren't a flex , or are they?  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T162717Z&X-Amz-Expires=300&X-Amz-Signature=2e88a1877abc283ba2de2c06a84413c29e765694a74274171f6906ab4de9c10b&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" />
 ###
 
 <div align="center">
@@ -37,7 +35,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GayathriPCh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-## Tech stacks because why not
+## Tech stacks because why not  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T162831Z&X-Amz-Expires=300&X-Amz-Signature=e43d6af0cf5c36c6e616d2a0704b5c48303e104b521af5dbcd0bc1001f64163b&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" /></h2>
 ---
 ###
 
@@ -107,7 +105,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-## Spotify , because every line of Code needs a soundtrack, even if it's just errors
+## Spotify , because every line of Code needs a soundtrack, even if it's just errors <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T162939Z&X-Amz-Expires=300&X-Amz-Signature=705d71794d5424edfc9623636d14f2ed38e3b5eb4438fcc212ea97035b8485fe&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" />
 ---
 ###
 
