@@ -1,12 +1,19 @@
-## Hola github users!
----
-I'm a computer science student diving headfirst into the tech universe! 🌐 From whipping up dope web designs to geeking out over AI, ☁️ Cloud, 🔗 Blockchain, and 🛡️ cybersecurity, I'm all about pushing boundaries and shaping the future. Let's connect and chat about the raddest tech trends out there! 🚀
+<h2 align="center">Hola GitHub users! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Revolving Hearts" width="50" height="50" /></h2>
 
-###
 <div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/1955727/screenshots/4438379/hello.gif"  />
+  <img src="https://github.com/GayathriPCh/GayathriPCh/assets/132088009/d2162e1c-d5fd-49dd-8279-f442eda59a7e" width="450" height="450" alt="Profile Image">
 </div>
 
+<p align="center" style="font-family: 'Audiowide', cursive;">
+  <strong>I'm a computer science student diving headfirst into the tech universe! 🌐 From whipping up dope web designs to geeking out over AI, ☁️ Cloud, 🔗 Blockchain, and 🛡️ cybersecurity, I'm all about pushing boundaries and shaping the future. Let's connect and chat about the raddest tech trends out there! 🚀</strong>
+</p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658104-661d7d68-0492-49c5-92f9-6f657f10cbc7.gif" alt="Animated GIF" width="450" height="450"">
+</p>
+
+###
 ## Drop a GM at
 ---
 ###
@@ -19,6 +26,7 @@ I'm a computer science student diving headfirst into the tech universe! 🌐 Fro
 <a href="https://medium.com/@p.gayathri.ch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="30" alt="medium logo"  />
   </a>
 </div>
+---
 
 ###
 ## Commits aren't a flex , or are they?
@@ -32,7 +40,6 @@ I'm a computer science student diving headfirst into the tech universe! 🌐 Fro
   <img src="https://github-profile-trophy.vercel.app?username=GayathriPCh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GayathriPCh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
- ![Snake animation](https://github.com/GayathriPCh/GayathriPCh/blob/output/github-contribution-grid-snake.svg)
 ## Tech stacks because why not
 ---
 ###
