@@ -13,17 +13,10 @@ I'm a computer science student diving headfirst into the tech universe! 🌐 Fro
 
 <div align="center">
 <!--Drop a hey at-->
-  <a href="https://www.linkedin.com/in/gayathri-pch/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/GayathriP164882" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://youtube.com/@gayathrip-sw1jw?si=tvWM37MEvCBvaBic" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://medium.com/@p.gayathri.ch" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+<a href="https://twitter.com/gayathrip164882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayathrip164882" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gayathri-pch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gayathri-pch/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvr3b5tqbv4vsymnxo-gagq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvr3b5tqbv4vsymnxo-gagq" height="30" width="40" /></a>
+<a href="https://medium.com/@p.gayathri.ch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="30" alt="medium logo"  />
   </a>
 </div>
 
