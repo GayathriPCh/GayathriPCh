@@ -9,9 +9,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/216658104-661d7d68-0492-49c5-92f9-6f657f10cbc7.gif" alt="Animated GIF" width="370" height="370"">
 </p>
 
-<br></br>
-
-
 <h2 align="center"> Drop a GM at  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T163046Z&X-Amz-Expires=300&X-Amz-Signature=5dfba0a113c35873b2efc4be1a68db5e2e2812761246fc604893a80380a94ec6&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" /> </h2>
 <br></br>
 <div align="center">
