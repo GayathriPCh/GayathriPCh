@@ -3,15 +3,11 @@
 <p align="center" style="font-family: 'Audiowide', cursive;">
   <strong>I'm a computer science student diving headfirst into the tech universe! 🌐 From whipping up dope web designs to geeking out over AI, ☁️ Cloud, 🔗 Blockchain, and 🛡️ cybersecurity, I'm all about pushing boundaries and shaping the future. Let's connect and chat about the raddest tech trends out there! 🚀</strong>
 </p>
-
 <p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/icegif-1299.gif" alt="Animated GIF" width="350" height="300"">
 </p>
-
 <h2 align="center"> Drop a GM at  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T163046Z&X-Amz-Expires=300&X-Amz-Signature=5dfba0a113c35873b2efc4be1a68db5e2e2812761246fc604893a80380a94ec6&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" /> </h2>
-
 <br></br>
-
 <div align="center">
 <!--Drop a hey at-->
 <a href="https://twitter.com/gayathrip164882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayathrip164882" height="30" width="40" /></a>
@@ -20,11 +16,7 @@
 <a href="https://medium.com/@p.gayathri.ch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="30" alt="medium logo"  />
   </a>
 </div>
-
 <br></br>
-
-
-
 <h2 align="center"> Commits aren't a flex , or are they?  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T162717Z&X-Amz-Expires=300&X-Amz-Signature=2e88a1877abc283ba2de2c06a84413c29e765694a74274171f6906ab4de9c10b&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" /></h2>
 
 <br></br>
