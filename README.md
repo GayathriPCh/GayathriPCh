@@ -64,7 +64,7 @@
 ---
 
 ### 📜 Check Out My Resume & Portfolio!
-📄 [Resume](https://drive.google.com/file/d/your-resume-link/view)  
+📄 [Resume](https://drive.google.com/file/d/1L3j33WSsk7crSIcjNKfAaeInNNhGrvV4/view?usp=sharing)  
 🌐 [Portfolio](https://astro-folio-two.vercel.app/)
 
 ---
