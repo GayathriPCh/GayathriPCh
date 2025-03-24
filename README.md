@@ -44,6 +44,12 @@
 - 🏆 **MAH Mini App Hackathon (Top 15 Teams)**: Built a mini app for Wallstreet DAO DApp 🔥
 
 ---
+### 📚 My Curated Tech Resources
+I’ve compiled a list of the best resources on **Web3**. Check it out here:  
+📖 [Tech Resources Notion](https://magnificent-overcoat-549.notion.site/Resources-tech-16b7a1f5bb0b80568339cc57f4829e3b)
+Will make more of these soon on other topics.
+
+---
 
 ### 🌎 Let's Connect!
 <p align="center">
