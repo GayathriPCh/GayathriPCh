@@ -53,9 +53,6 @@
   <a href="https://github.com/GayathriPCh">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/UCVr3B5TQBv4VSymnxO-gagQ">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <a href="https://medium.com/@p.gayathri.ch">
     <img src="https://img.shields.io/badge/Medium-%23121212.svg?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
