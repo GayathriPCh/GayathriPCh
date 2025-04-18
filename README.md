@@ -4,7 +4,7 @@
   <strong>I'm a computer science student diving headfirst into the tech universe! 🌐 From whipping up dope web designs to geeking out over AI, ☁️ Cloud, 🔗 Blockchain, and 🛡️ cybersecurity, I'm all about pushing boundaries and shaping the future. Let's connect and chat about the raddest tech trends out there! 🚀</strong>
 </p>
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/icegif-1299.gif" alt="Animated GIF" width="350" height="300"">
+  <img src="https://i.pinimg.com/originals/cf/2c/a4/cf2ca4f35eff08e2d8724e2e4b5cdf42.gif" alt="Animated GIF" width="850" height="400"">
 </p>
 <h2 align="center"> Drop a GM at  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T163046Z&X-Amz-Expires=300&X-Amz-Signature=5dfba0a113c35873b2efc4be1a68db5e2e2812761246fc604893a80380a94ec6&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" /> </h2>
 <br></br>
@@ -116,5 +116,5 @@
 <p align="center" style="font-family: 'Audiowide', cursive;">
   <strong>I'm a Music 🎵, Space 🚀, Arts 🎨 enthusiast, and I loveee to integrate my interests into whatever I'm building! You can take a look at my repos! 📚</strong></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Animated GIF" width="270" height="270"">
+  <img src="https://66.media.tumblr.com/0699f4abac93fe1171519d0f61b60a0e/tumblr_mjok0p1gm81rfjowdo1_500.gif" alt="Animated GIF" width="270" height="270"">
 </p>
