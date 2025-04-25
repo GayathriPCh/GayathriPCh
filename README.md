@@ -1,4 +1,4 @@
-=<h2 align="center">Hola GitHub users! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Revolving Hearts" width="50" height="50" /></h2>
+<h2 align="center">Hola GitHub users! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Revolving Hearts" width="50" height="50" /></h2>
 
 <p align="center" style="font-family: 'Audiowide', cursive;">
   <strong>I'm a computer science student diving headfirst into the tech universe! 🌐 From whipping up dope web designs to geeking out over AI, ☁️ Cloud, 🔗 Blockchain, and 🛡️ cybersecurity, I'm all about pushing boundaries and shaping the future. Let's connect and chat about the raddest tech trends out there! 🚀</strong>
