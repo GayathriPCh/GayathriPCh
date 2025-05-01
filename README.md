@@ -103,7 +103,7 @@
 
 <br></br>
 
-<h2 align="center">Spotify , because every line of Code needs a soundtrack, even if it's just errors <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T162939Z&X-Amz-Expires=300&X-Amz-Signature=705d71794d5424edfc9623636d14f2ed38e3b5eb4438fcc212ea97035b8485fe&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" /></h2>
+<h2 align="center">Spotify , because every line of Code needs a soundtrack, even if it's just errors </h2>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31sa6ornfjjibclkea5dmib7lwhq">
