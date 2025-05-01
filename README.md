@@ -33,7 +33,7 @@
 
 <br></br>
 
-<h2 align="center">Tech stacks because why not  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T162831Z&X-Amz-Expires=300&X-Amz-Signature=e43d6af0cf5c36c6e616d2a0704b5c48303e104b521af5dbcd0bc1001f64163b&X-Amz-SignedHeaders=host&actor_id=132088009&key_id=0&repo_id=588181932" alt="Revolving Hearts" width="50" height="50" /></h2>
+<h2 align="center">Tech stacks because why not  </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
