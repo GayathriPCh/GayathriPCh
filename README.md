@@ -2,7 +2,9 @@
 
 ---
 
-![SpiderNoir](https://64.media.tumblr.com/f2f876e62b7142568885347904a5c036/86d12367435c83e1-53/s540x810/c4ce0aedccec2742a114d3e43bb4a130a5d0bab6.gif)
+<div align="center">
+  <img src="https://64.media.tumblr.com/f2f876e62b7142568885347904a5c036/86d12367435c83e1-53/s540x810/c4ce0aedccec2742a114d3e43bb4a130a5d0bab6.gif" alt="SpiderNoir">
+</div>
 
 ---
 
